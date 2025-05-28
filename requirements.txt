@@ -1,0 +1,8 @@
+openai
+streamlit
+python-dotenv
+sentence-transformers 
+pinecone
+pyreadline3
+langchain
+langchain_openai
